@@ -6,7 +6,7 @@ This is a community prototype adapted from [Cameron Pak’s Muse r1](https://git
 
 ## Download
 
-The links below download the prepared files directly. Release notes are available in [Releases](https://github.com/Moldman570/muse-watch/releases/tag/v0.3.0) 
+The links below download the prepared files directly. Release notes are available in [Releases](https://github.com/Moldman570/muse-watch/releases/tag/v0.3.0)
 
 | Download | Use it for |
 | --- | --- |
