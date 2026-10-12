@@ -6,13 +6,13 @@ This is a community prototype adapted from [Cameron Pak’s Muse r1](https://git
 
 ## Download
 
-Go to [Releases](https://github.com/Moldman570/muse-watch/releases/tag/v0.3.0) and choose:
+The links below download the prepared files directly. Release notes are available in [Releases](https://github.com/Moldman570/muse-watch/releases/tag/v0.3.0) 
 
 | Download | Use it for |
 | --- | --- |
-| `muse-watch-v0.3.0.apk` | Install with a phone sideloading app or your own ADB setup |
-| `muse-watch-windows-v0.3.0.zip` | Windows installation: includes the APK, helper, and Google’s official ADB tools |
-| `SHA256SUMS.txt` | Verify the downloaded files |
+| [muse-watch-v0.3.0.apk](https://github.com/Moldman570/muse-watch/raw/refs/tags/v0.3.0/downloads/v0.3.0/muse-watch-v0.3.0.apk) | Install with a phone sideloading app or your own ADB setup |
+| [muse-watch-windows-v0.3.0.zip](https://github.com/Moldman570/muse-watch/raw/refs/tags/v0.3.0/downloads/v0.3.0/muse-watch-windows-v0.3.0.zip) | Windows installation: includes the APK, helper, and Google’s official ADB tools |
+| [SHA256SUMS.txt](https://github.com/Moldman570/muse-watch/raw/refs/tags/v0.3.0/downloads/v0.3.0/SHA256SUMS.txt) | Verify the downloaded files |
 
 The APK is a debug-signed sideloading prototype. Future published updates need the same signing key to preserve app data. The private signing key is not included in this repository.
 

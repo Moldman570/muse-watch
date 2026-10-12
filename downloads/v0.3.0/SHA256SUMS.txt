@@ -1,0 +1,2 @@
+121d8b34161c97314c406aecf9d94bbee411c481df7cb588f5efa48f4570d251  muse-watch-v0.3.0.apk
+6caff8b129511ee84f759030aba792f4e1fe0be9db7fc50ad6f2e2de28e60012  muse-watch-windows-v0.3.0.zip
