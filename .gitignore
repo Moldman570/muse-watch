@@ -1,0 +1,13 @@
+*.apk
+*.zip
+*.jks
+*.keystore
+*.enc
+*.key
+.env*
+**/__pycache__/
+*.pyc
+pending-sdk-token
+credentials.json
+sdk_token
+/platform-tools/
